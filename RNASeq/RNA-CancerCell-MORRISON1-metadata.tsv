@@ -1,0 +1,443 @@
+"sample.id"	"subject.id"	"sample.tumor.type"	"cohort"	"timepoint.id"	"treatment.regimen.name"	"bor"	"response"	"previous.treatment"	"subject.age"	"subject.sex"	"sample.freetext.anatomic.site"
+"355158_rna_064"	"CA209064-4-64020_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PR"	"CRPR"	"ipi-naive"	82	"male"	NA
+"355159_rna_064"	"CA209064-4-64026_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PR"	"CRPR"	"ipi-naive"	31	"male"	NA
+"355161_rna_064"	"CA209064-4-64083_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	73	"male"	NA
+"355164_rna_064"	"CA209064-4-64125_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"SD"	"SD"	"ipi-naive"	54	"male"	NA
+"355166_rna_064"	"CA209064-4-64105_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"SD"	"SD"	"ipi-naive"	74	"male"	NA
+"355167_rna_064"	"CA209064-4-64127_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	32	"female"	NA
+"355168_rna_064"	"CA209064-7-64107_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	49	"female"	NA
+"355169_rna_064"	"CA209064-4-64102_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	72	"male"	NA
+"355171_rna_064"	"CA209064-7-64107_064"	"cutaneous"	"064"	"PD1-to-CTLA4-on"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	49	"female"	NA
+"355173_rna_064"	"CA209064-4-64039_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PR"	"CRPR"	"ipi-naive"	42	"female"	NA
+"355175_rna_064"	"CA209064-7-64092_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	53	"male"	NA
+"355181_rna_064"	"CA209064-4-64080_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PR"	"CRPR"	"ipi-naive"	63	"male"	NA
+"355195_rna_064"	"CA209064-4-64077_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	38	"male"	NA
+"355203_rna_064"	"CA209064-4-64044_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PR"	"CRPR"	"ipi-naive"	74	"male"	NA
+"355204_rna_064"	"CA209064-4-64108_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PR"	"CRPR"	"ipi-naive"	67	"male"	NA
+"355205_rna_064"	"CA209064-7-64092_064"	"cutaneous"	"064"	"CTLA4-to-PD1-on"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	53	"male"	NA
+"355211_rna_064"	"CA209064-7-64092_064"	"cutaneous"	"064"	"CTLA4-to-PD1-post"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	53	"male"	NA
+"355213_rna_064"	"CA209064-7-64090_064"	"uveal"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"SD"	"SD"	"ipi-naive"	51	"male"	NA
+"355220_rna_064"	"CA209064-4-64033_064"	"cutaneous"	"064"	"CTLA4-to-PD1-on"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	56	"male"	NA
+"355226_rna_064"	"CA209064-4-64067_064"	"uveal"	"064"	"PD1-to-CTLA4-on"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	72	"female"	NA
+"355228_rna_064"	"CA209064-4-64018_064"	"cutaneous"	"064"	"CTLA4-to-PD1-on"	"CTLA4-to-PD1"	"SD"	"SD"	"ipi-naive"	47	"male"	NA
+"355233_rna_064"	"CA209064-4-64069_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"SD"	"SD"	"ipi-naive"	66	"male"	NA
+"355234_rna_064"	"CA209064-4-64030_064"	"cutaneous"	"064"	"CTLA4-to-PD1-on"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	78	"male"	NA
+"355236_rna_064"	"CA209064-4-64030_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	78	"male"	NA
+"355237_rna_064"	"CA209064-4-64018_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"SD"	"SD"	"ipi-naive"	47	"male"	NA
+"355238_rna_064"	"CA209064-4-64055_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PR"	"CRPR"	"ipi-naive"	64	"female"	NA
+"355240_rna_064"	"CA209064-4-64114_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	40	"male"	NA
+"355245_rna_064"	"CA209064-4-64067_064"	"uveal"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	72	"female"	NA
+"355250_rna_064"	"CA209064-4-64049_064"	"cutaneous"	"064"	"CTLA4-to-PD1-on"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	58	"male"	NA
+"355251_rna_064"	"CA209064-4-64049_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	58	"male"	NA
+"355252_rna_064"	"CA209064-4-64142_064"	"acral"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	68	"male"	NA
+"355253_rna_064"	"CA209064-4-64112_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PR"	"CRPR"	"ipi-naive"	61	"female"	NA
+"355255_rna_064"	"CA209064-7-64050_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"SD"	"SD"	"ipi-naive"	57	"male"	NA
+"355257_rna_064"	"CA209064-7-64050_064"	"cutaneous"	"064"	"PD1-to-CTLA4-on"	"PD1-to-CTLA4"	"SD"	"SD"	"ipi-naive"	57	"male"	NA
+"355260_rna_064"	"CA209064-4-64045_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PR"	"CRPR"	"ipi-naive"	58	"male"	NA
+"355262_rna_064"	"CA209064-4-64066_064"	"mucosal"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PR"	"CRPR"	"ipi-naive"	62	"male"	NA
+"355264_rna_064"	"CA209064-4-64033_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	56	"male"	NA
+"355272_rna_064"	"CA209064-7-64090_064"	"uveal"	"064"	"CTLA4-to-PD1-on"	"CTLA4-to-PD1"	"SD"	"SD"	"ipi-naive"	51	"male"	NA
+"AE255288-5_rna_064"	"CA209064-4-64028_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	62	"female"	NA
+"AE456921-5_rna_064"	"CA209064-4-64034_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PR"	"CRPR"	"ipi-naive"	65	"male"	NA
+"AF435020-1_rna_064"	"CA209064-4-64146_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	84	"male"	NA
+"AF435025-1_rna_064"	"CA209064-4-64140_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	66	"male"	NA
+"AF686805-1_rna_064"	"CA209064-4-64149_064"	"uveal"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	63	"female"	NA
+"AF709527-1_rna_064"	"CA209064-4-64174_064"	"uveal"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	52	"male"	NA
+"AF709529-1_rna_064"	"CA209064-4-64170_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PR"	"CRPR"	"ipi-naive"	56	"male"	NA
+"AF709533-1_rna_064"	"CA209064-4-64155_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PR"	"CRPR"	"ipi-naive"	72	"male"	NA
+"AF709536-1_rna_064"	"CA209064-4-64156_064"	"mucosal"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	70	"male"	NA
+"AF709537-1_rna_064"	"CA209064-4-64158_064"	"cutaneous"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	30	"male"	NA
+"AF709538-1_rna_064"	"CA209064-4-64160_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PR"	"CRPR"	"ipi-naive"	40	"male"	NA
+"AF709539-1_rna_064"	"CA209064-4-64159_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	73	"female"	NA
+"AF709540-1_rna_064"	"CA209064-4-64176_064"	"mucosal"	"064"	"PD1-to-CTLA4-pre"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	77	"male"	NA
+"AG188915-1_rna_064"	"CA209064-4-64149_064"	"uveal"	"064"	"CTLA4-to-PD1-on"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	63	"female"	NA
+"AG193962-1_rna_064"	"CA209064-4-64158_064"	"cutaneous"	"064"	"PD1-to-CTLA4-post"	"PD1-to-CTLA4"	"PD"	"PD"	"ipi-naive"	30	"male"	NA
+"AG193969-1_rna_064"	"CA209064-4-64157_064"	"cutaneous"	"064"	"CTLA4-to-PD1-pre"	"CTLA4-to-PD1"	"PD"	"PD"	"ipi-naive"	75	"male"	NA
+"AG223712-5_rna_064"	"CA209064-7-64090_064"	"uveal"	"064"	"CTLA4-to-PD1-post"	"CTLA4-to-PD1"	"SD"	"SD"	"ipi-naive"	51	"male"	NA
+"EA759318_rna_067"	"68_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"CR"	"CRPR"	"ipi-naive"	71	"male"	NA
+"EA759323_rna_067"	"50_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	79	"male"	NA
+"EA759362_rna_067"	"60_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	68	"female"	NA
+"EA759372_rna_067"	"64_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"SD"	"SD"	"ipi-naive"	51	"male"	NA
+"EA759396_rna_067"	"32_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	NA	NA	"ipi-naive"	60	"female"	NA
+"EA759408_rna_067"	"43_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	NA	NA	"ipi-naive"	65	"male"	NA
+"EA759434_rna_067"	"44_067"	"cutaneous"	"067"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	66	"male"	NA
+"EA759468_rna_067"	"46_067"	"acral"	"067"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	43	"male"	NA
+"EA759485_rna_067"	"2_067"	"cutaneous"	"067"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	46	"female"	NA
+"EA759514_rna_067"	"54_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	58	"male"	NA
+"EA759547_rna_067"	"30_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"PR"	"CRPR"	"ipi-naive"	56	"female"	NA
+"EA759558_rna_067"	"57_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	57	"male"	NA
+"EA759569_rna_067"	"4_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	47	"female"	NA
+"EA771191_rna_067"	"42_067"	"cutaneous"	"067"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	59	"female"	NA
+"EA771194_rna_067"	"63_067"	"cutaneous"	"067"	"Combo-pre"	"Combo"	"PD"	"PD"	"ipi-naive"	74	"male"	NA
+"EA771211_rna_067"	"21_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"PR"	"CRPR"	"ipi-naive"	51	"male"	NA
+"EA771235_rna_067"	"36_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"SD"	"SD"	"ipi-naive"	70	"male"	NA
+"EA771239_rna_067"	"24_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	81	"male"	NA
+"EA771240_rna_067"	"12_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"CR"	"CRPR"	"ipi-naive"	52	"male"	NA
+"EA771247_rna_067"	"56_067"	"unknown"	"067"	"CTLA4-pre"	"CTLA4"	"PR"	"CRPR"	"ipi-naive"	49	"female"	NA
+"EA771258_rna_067"	"11_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	43	"male"	NA
+"EA771259_rna_067"	"41_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	NA	NA	"ipi-naive"	63	"female"	NA
+"EA771264_rna_067"	"33_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	62	"female"	NA
+"EA771266_rna_067"	"19_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	84	"female"	NA
+"EA771269_rna_067"	"38_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	NA	NA	"ipi-naive"	47	"male"	NA
+"EA771313_rna_067"	"13_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	53	"female"	NA
+"EA771327_rna_067"	"71_067"	"unknown"	"067"	"Combo-pre"	"Combo"	"SD"	"SD"	"ipi-naive"	38	"female"	NA
+"EA771328_rna_067"	"48_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	43	"female"	NA
+"EA771332_rna_067"	"23_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"PR"	"CRPR"	"ipi-naive"	61	"male"	NA
+"EA771333_rna_067"	"18_067"	"cutaneous"	"067"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	68	"male"	NA
+"EA771862_rna_067"	"28_067"	"cutaneous"	"067"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	72	"male"	NA
+"EA771888_rna_067"	"17_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	68	"male"	NA
+"EA771911_rna_067"	"35_067"	"cutaneous"	"067"	"CTLA4-pre"	"CTLA4"	"SD"	"SD"	"ipi-naive"	59	"female"	NA
+"EA771922_rna_067"	"26_067"	"cutaneous"	"067"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	55	"male"	NA
+"EA771939_rna_067"	"15_067"	"cutaneous"	"067"	"Combo-pre"	"Combo"	"PD"	"PD"	"ipi-naive"	64	"male"	NA
+"EA771940_rna_067"	"8_067"	"cutaneous"	"067"	"Combo-pre"	"Combo"	"PD"	"PD"	"ipi-naive"	82	"male"	NA
+"EA771943_rna_067"	"52_067"	"acral"	"067"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	53	"male"	NA
+"PD1_10_EDT_gide"	"PD1_10_gide"	"cutaneous"	"gide"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	90	"male"	"Subcutaneous Tissue"
+"PD1_10_PRE_gide"	"PD1_10_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	90	"male"	"Subcutaneous Tissue"
+"PD1_11_PRE_gide"	"PD1_11_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	66	"male"	"Subcutaneous Tissue"
+"PD1_12_PRE_gide"	"PD1_12_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	52	"male"	"Subcutaneous Tissue"
+"PD1_13_EDT_gide"	"PD1_13_gide"	"unknown"	"gide"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	69	"male"	"Subcutaneous Tissue"
+"PD1_13_PRE_gide"	"PD1_13_gide"	"unknown"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	69	"male"	"Subcutaneous Tissue"
+"PD1_14_PRE_gide"	"PD1_14_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	58	"male"	"Other"
+"PD1_15_PRE_gide"	"PD1_15_gide"	"acral"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	76	"female"	"Subcutaneous Tissue"
+"PD1_16_PRE_gide"	"PD1_16_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	55	"male"	"Lymph Node"
+"PD1_17_EDT_gide"	"PD1_17_gide"	"cutaneous"	"gide"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	37	"male"	"Spinal Column"
+"PD1_17_PRE_gide"	"PD1_17_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	37	"male"	"Subcutaneous Tissue"
+"PD1_18_PRE_gide"	"PD1_18_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	62	"male"	"Subcutaneous Tissue"
+"PD1_19_PRE_gide"	"PD1_19_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	54	"male"	"Subcutaneous Tissue"
+"PD1_21_PRE_gide"	"PD1_21_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	67	"male"	"Subcutaneous Tissue"
+"PD1_23_PRE_gide"	"PD1_23_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	40	"male"	"Subcutaneous Tissue"
+"PD1_25_EDT_gide"	"PD1_25_gide"	"cutaneous"	"gide"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-naive"	49	"male"	"Subcutaneous Tissue"
+"PD1_25_PRE_gide"	"PD1_25_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	49	"male"	"Subcutaneous Tissue"
+"PD1_27_PRE_gide"	"PD1_27_gide"	"acral"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	76	"male"	"Subcutaneous Tissue"
+"PD1_29_EDT_gide"	"PD1_29_gide"	"cutaneous"	"gide"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-naive"	55	"male"	"Subcutaneous Tissue"
+"PD1_29_PRE_gide"	"PD1_29_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	55	"male"	"Subcutaneous Tissue"
+"PD1_2_PRE_gide"	"PD1_2_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	61	"female"	"Subcutaneous Tissue"
+"PD1_30_PRE_gide"	"PD1_30_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	86	"female"	"Subcutaneous Tissue"
+"PD1_34_PRE_gide"	"PD1_34_gide"	"acral"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	78	"male"	"Lymph Node"
+"PD1_35_PRE_gide"	"PD1_35_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	55	"female"	"Subcutaneous Tissue"
+"PD1_36_PRE_gide"	"PD1_36_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	76	"male"	"Subcutaneous Tissue"
+"PD1_38_PRE_gide"	"PD1_38_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	69	"female"	"Subcutaneous Tissue"
+"PD1_3_PRE_gide"	"PD1_3_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	50	"male"	"Subcutaneous Tissue"
+"PD1_40_PRE_gide"	"PD1_40_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	78	"male"	"Subcutaneous Tissue"
+"PD1_41_EDT_gide"	"PD1_41_gide"	"cutaneous"	"gide"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-naive"	61	"female"	"Subcutaneous Tissue"
+"PD1_41_PRE_gide"	"PD1_41_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	61	"female"	"Subcutaneous Tissue"
+"PD1_42_PRE_gide"	"PD1_42_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	59	"female"	"Subcutaneous Tissue"
+"PD1_44_PRE_gide"	"PD1_44_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	45	"female"	"Lymph Node"
+"PD1_45_PRE_gide"	"PD1_45_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	82	"male"	"Subcutaneous Tissue"
+"PD1_46_PRE_gide"	"PD1_46_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	71	"male"	"Subcutaneous Tissue"
+"PD1_47_EDT_gide"	"PD1_47_gide"	"cutaneous"	"gide"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-naive"	62	"male"	"Subcutaneous Tissue"
+"PD1_47_PRE_gide"	"PD1_47_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	62	"male"	"Subcutaneous Tissue"
+"PD1_48_EDT_gide"	"PD1_48_gide"	"cutaneous"	"gide"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-naive"	40	"male"	"Lymph Node"
+"PD1_48_PRE_gide"	"PD1_48_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	40	"male"	"Subcutaneous Tissue"
+"PD1_49_PRE_gide"	"PD1_49_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	72	"female"	"Subcutaneous Tissue"
+"PD1_4_PRE_gide"	"PD1_4_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	84	"male"	"Subcutaneous Tissue"
+"PD1_50_PRE_gide"	"PD1_50_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	86	"male"	"Subcutaneous Tissue"
+"PD1_52_PRE_gide"	"PD1_52_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	63	"female"	"Subcutaneous Tissue"
+"PD1_53_PRE_gide"	"PD1_53_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	71	"female"	"Lymph Node"
+"PD1_54_PRE_gide"	"PD1_54_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	52	"female"	"Subcutaneous Tissue"
+"PD1_5_PRE_gide"	"PD1_5_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	67	"male"	"Subcutaneous Tissue"
+"PD1_6_PRE_gide"	"PD1_6_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	68	"male"	"Lymph Node"
+"PD1_7_PRE_gide"	"PD1_7_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	57	"female"	"Lymph Node"
+"PD1_8_EDT_gide"	"PD1_8_gide"	"acral"	"gide"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	85	"female"	"Subcutaneous Tissue"
+"PD1_8_PRE_gide"	"PD1_8_gide"	"acral"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	85	"female"	"Subcutaneous Tissue"
+"PD1_9_PRE_gide"	"PD1_9_gide"	"cutaneous"	"gide"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	70	"female"	"Subcutaneous Tissue"
+"Pat03_rna_va"	"3_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	61	"female"	NA
+"Pat04_rna_va"	"4_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PR"	"CRPR"	"ipi-naive"	71	"male"	NA
+"Pat06_rna_va"	"6_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	33	"male"	NA
+"Pat08_rna_va"	"8_va"	"mucosal"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	73	"male"	NA
+"Pat118_rna_va"	"118_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	43	"female"	NA
+"Pat119_rna_va"	"119_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	61	"male"	NA
+"Pat123_rna_va"	"123_va"	"unknown"	"va"	"CTLA4-pre"	"CTLA4"	"SD"	"SD"	"ipi-naive"	50	"female"	NA
+"Pat126_rna_va"	"126_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PR"	"CRPR"	"ipi-naive"	77	"male"	NA
+"Pat14_rna_va"	"14_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	48	"female"	NA
+"Pat15_rna_va"	"15_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	32	"male"	NA
+"Pat16_rna_va"	"16_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	68	"female"	NA
+"Pat19_rna_va"	"19_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	59	"male"	NA
+"Pat20_rna_va"	"20_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	78	"male"	NA
+"Pat25_rna_va"	"25_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	69	"male"	NA
+"Pat27_rna_va"	"27_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	61	"male"	NA
+"Pat28_rna_va"	"28_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	77	"male"	NA
+"Pat29_rna_va"	"29_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	NA	NA	"ipi-naive"	82	"male"	NA
+"Pat33_rna_va"	"33_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	65	"male"	NA
+"Pat36_rna_va"	"36_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	52	"female"	NA
+"Pat37_rna_va"	"37_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	47	"female"	NA
+"Pat38_rna_va"	"38_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PR"	"CRPR"	"ipi-naive"	45	"male"	NA
+"Pat39_rna_va"	"39_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"CR"	"CRPR"	"ipi-naive"	67	"male"	NA
+"Pat40_rna_va"	"40_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	74	"male"	NA
+"Pat41_rna_va"	"41_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	64	"male"	NA
+"Pat43_rna_va"	"43_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	75	"female"	NA
+"Pat44_rna_va"	"44_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	57	"female"	NA
+"Pat45_rna_va"	"45_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	68	"male"	NA
+"Pat46_rna_va"	"46_va"	"unknown"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	36	"female"	NA
+"Pat47_rna_va"	"47_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"CR"	"CRPR"	"ipi-naive"	78	"male"	NA
+"Pat49_rna_va"	"49_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"SD"	"SD"	"ipi-naive"	36	"male"	NA
+"Pat50_rna_va"	"50_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	77	"male"	NA
+"Pat79_rna_va"	"79_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PR"	"CRPR"	"ipi-naive"	69	"male"	NA
+"Pat80_rna_va"	"80_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"SD"	"SD"	"ipi-naive"	48	"male"	NA
+"Pat81_rna_va"	"81_va"	"mucosal"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	54	"female"	NA
+"Pat83_rna_va"	"83_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	22	"male"	NA
+"Pat85_rna_va"	"85_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	83	"male"	NA
+"Pat86_rna_va"	"86_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"SD"	"SD"	"ipi-naive"	55	"male"	NA
+"Pat88_rna_va"	"88_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"SD"	"SD"	"ipi-naive"	60	"female"	NA
+"Pat90_rna_va"	"90_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PR"	"CRPR"	"ipi-naive"	59	"male"	NA
+"Pat91_rna_va"	"91_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"SD"	"SD"	"ipi-naive"	81	"male"	NA
+"Pat98_rna_va"	"98_va"	"cutaneous"	"va"	"CTLA4-pre"	"CTLA4"	"PD"	"PD"	"ipi-naive"	57	"female"	NA
+"Patient102_T_P_RNA_liu"	"Patient102_liu"	"acral"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"male"	"brain"
+"Patient105_T_P_RNA_liu"	"Patient105_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"female"	"skin"
+"Patient106_T_P_RNA_liu"	"Patient106_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"female"	"skin"
+"Patient107_T_P_RNA_liu"	"Patient107_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"adrenal gland"
+"Patient108_T_P_RNA_liu"	"Patient108_liu"	"acral"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"lymph node"
+"Patient10_T_M_RNA_liu"	"Patient10_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"female"	"skin"
+"Patient112_T_P_RNA_liu"	"Patient112_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"skin"
+"Patient116_T_P_RNA_liu"	"Patient116_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"skin"
+"Patient117_T_P_RNA_liu"	"Patient117_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"female"	"soft tissue"
+"Patient11_T_M_RNA_liu"	"Patient11_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"female"	"skin"
+"Patient121_T_P_RNA_liu"	"Patient121_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"female"	"skin"
+"Patient125_T_P_RNA_liu"	"Patient125_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient126_T_P_RNA_liu"	"Patient126_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient127_T_P_RNA_liu"	"Patient127_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"male"	"stomach"
+"Patient130_T_P_RNA_liu"	"Patient130_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"brain"
+"Patient131_T_RNA_liu"	"Patient131_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient132_T_RNA_liu"	"Patient132_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"male"	"lung"
+"Patient133_T_RNA_liu"	"Patient133_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient134_T_RNA_liu"	"Patient134_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient135_T_RNA_liu"	"Patient135_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient137_T_RNA_liu"	"Patient137_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"female"	"lymph node"
+"Patient13_T_M_RNA_liu"	"Patient13_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient140_T_RNA_liu"	"Patient140_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient141_T_RNA_liu"	"Patient141_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"female"	"skin"
+"Patient142_T_RNA_liu"	"Patient142_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"female"	"skin"
+"Patient143_T_RNA_liu"	"Patient143_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient144_T_RNA_liu"	"Patient144_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient145_T_RNA_liu"	"Patient145_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient146_T_RNA_liu"	"Patient146_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"female"	"skin"
+"Patient147_T_RNA_liu"	"Patient147_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient148_T_RNA_liu"	"Patient148_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"female"	"skin"
+"Patient149_T_RNA_liu"	"Patient149_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"male"	"lung"
+"Patient14_T_M_RNA_liu"	"Patient14_liu"	"acral"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"skin"
+"Patient150_T_RNA_liu"	"Patient150_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"liver"
+"Patient154_T_RNA_liu"	"Patient154_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"female"	"skin"
+"Patient155_T_RNA_liu"	"Patient155_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient156_T_RNA_liu"	"Patient156_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient158_T_RNA_liu"	"Patient158_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"adrenal gland"
+"Patient159_T_RNA_liu"	"Patient159_liu"	"mucosal"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	"female"	"maxillary sinus, hard palate"
+"Patient15_T_M_RNA_liu"	"Patient15_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"female"	"skin"
+"Patient162_T_RNA_liu"	"Patient162_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"intestinal metastasis"
+"Patient163_T_RNA_liu"	"Patient163_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"lymph node"
+"Patient165_T_RNA_liu"	"Patient165_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"soft tissue"
+"Patient166_T_RNA_liu"	"Patient166_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"female"	"soft tissue"
+"Patient167_T_RNA_liu"	"Patient167_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"brain"
+"Patient168_T_RNA_liu"	"Patient168_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"lymph node"
+"Patient169_T_RNA_liu"	"Patient169_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient170_T_RNA_liu"	"Patient170_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"male"	"skin"
+"Patient172_T_RNA_liu"	"Patient172_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"male"	"skin"
+"Patient173_T_RNA_liu"	"Patient173_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"lung"
+"Patient179_T_RNA_liu"	"Patient179_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"female"	"lymph node"
+"Patient17_T_M_RNA_liu"	"Patient17_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	"male"	"lymph node"
+"Patient181_T_RNA_liu"	"Patient181_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"female"	"skin"
+"Patient183_T_RNA_liu"	"Patient183_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient184_T_RNA_liu"	"Patient184_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient185_T_RNA_liu"	"Patient185_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"male"	"skin"
+"Patient187_T_RNA_liu"	"Patient187_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-experienced"	NA	"female"	"skin"
+"Patient188_T_RNA_liu"	"Patient188_liu"	"acral"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient189_T_RNA_liu"	"Patient189_liu"	"acral"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"female"	"skin"
+"Patient18_T_M_RNA_liu"	"Patient18_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient191_T_RNA_liu"	"Patient191_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient192_T_RNA_liu"	"Patient192_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"female"	"skin"
+"Patient193_T_RNA_liu"	"Patient193_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"female"	"skin"
+"Patient195_T_RNA_liu"	"Patient195_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"male"	"skin"
+"Patient196_T_RNA_liu"	"Patient196_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"brain"
+"Patient197_T_RNA_liu"	"Patient197_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"female"	"brain"
+"Patient1_T_M_RNA_liu"	"Patient1_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"female"	"skin"
+"Patient200_T_RNA_liu"	"Patient200_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"brain"
+"Patient201_T_RNA_liu"	"Patient201_liu"	"mucosal"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"rectal/anal"
+"Patient203_T_RNA_liu"	"Patient203_liu"	"acral"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient204_T_RNA_liu"	"Patient204_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient205_T_RNA_liu"	"Patient205_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"skin"
+"Patient206_T_RNA_liu"	"Patient206_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient20_T_M_RNA_liu"	"Patient20_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"female"	"skin"
+"Patient21_T_M_RNA_liu"	"Patient21_liu"	"acral"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"female"	"skin"
+"Patient22_T_M_RNA_liu"	"Patient22_liu"	"acral"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient23_T_M_RNA_liu"	"Patient23_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"skin"
+"Patient24_T_M_RNA_liu"	"Patient24_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient25_T_M_RNA_liu"	"Patient25_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"male"	"skin"
+"Patient27_T_M_RNA_liu"	"Patient27_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"lymph node"
+"Patient30_T_M_RNA_liu"	"Patient30_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	"female"	"skin"
+"Patient31_T_M_RNA_liu"	"Patient31_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient32_T_M_RNA_liu"	"Patient32_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"female"	"skin"
+"Patient33_T_M_RNA_liu"	"Patient33_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"female"	"skin"
+"Patient34_T_M_RNA_liu"	"Patient34_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"male"	"skin"
+"Patient35_T_M_RNA_liu"	"Patient35_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient36_T_M_RNA_liu"	"Patient36_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"lung"
+"Patient37_T_M_RNA_liu"	"Patient37_liu"	"mucosal"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"male"	"lymph node"
+"Patient38_T_M_RNA_liu"	"Patient38_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"Colon"
+"Patient40_T_M_RNA_liu"	"Patient40_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"liver"
+"Patient42_T_M_RNA_liu"	"Patient42_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-experienced"	NA	"male"	"skin"
+"Patient44_T_M_RNA_liu"	"Patient44_liu"	"mucosal"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"male"	"soft tissue"
+"Patient45_T_M_RNA_liu"	"Patient45_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"male"	"skin"
+"Patient47_T_M_RNA_liu"	"Patient47_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"skin"
+"Patient48_T_M_RNA_liu"	"Patient48_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"skin"
+"Patient4_T_M_RNA_liu"	"Patient4_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-experienced"	NA	"male"	"skin"
+"Patient51_T_M_RNA_liu"	"Patient51_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient56_T_M_RNA_liu"	"Patient56_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient58_T_M_RNA_liu"	"Patient58_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient61_T_P_RNA_liu"	"Patient61_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	"female"	"skin"
+"Patient62_T_P_RNA_liu"	"Patient62_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"female"	"skin"
+"Patient63_T_P_RNA_liu"	"Patient63_liu"	"mucosal"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"female"	"skin"
+"Patient67_T_P_RNA_liu"	"Patient67_liu"	"mucosal"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"skin"
+"Patient6_T_M_RNA_liu"	"Patient6_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	"female"	"skin"
+"Patient72_T_P_RNA_liu"	"Patient72_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient73_T_P_RNA_liu"	"Patient73_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient75_T_P_RNA_liu"	"Patient75_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"skin"
+"Patient77_T_P_RNA_liu"	"Patient77_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"lung"
+"Patient78_T_P_RNA_liu"	"Patient78_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"skin"
+"Patient79_T_P_RNA_liu"	"Patient79_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"brain"
+"Patient7_T_M_RNA_liu"	"Patient7_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient82_T_P_RNA_liu"	"Patient82_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"brain"
+"Patient83_T_P_RNA_liu"	"Patient83_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"male"	"skin"
+"Patient86_T_P_RNA_liu"	"Patient86_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	"male"	"lymph node"
+"Patient87_T_P_RNA_liu"	"Patient87_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	NA	"female"	"skin"
+"Patient8_T_M_RNA_liu"	"Patient8_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	NA	"male"	"skin"
+"Patient94_T_P_RNA_liu"	"Patient94_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	"female"	"skin"
+"Patient96_T_P_RNA_liu"	"Patient96_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	NA	"male"	"pancreas"
+"Patient98_T_P_RNA_liu"	"Patient98_liu"	"unknown"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"lung"
+"Patient99_T_P_RNA_liu"	"Patient99_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	NA	"male"	"soft tissue"
+"Patient9_T_M_RNA_liu"	"Patient9_liu"	"cutaneous"	"liu"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	"female"	"skin"
+"Pt101_on_rna_038"	"Pt101_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	47	"female"	NA
+"Pt101_pre_rna_038"	"Pt101_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	47	"female"	NA
+"Pt103_on_rna_038"	"Pt103_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	52	"female"	NA
+"Pt103_pre_rna_038"	"Pt103_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	52	"female"	NA
+"Pt106_on_rna_038"	"Pt106_038"	"mucosal"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	53	"male"	NA
+"Pt106_pre_rna_038"	"Pt106_038"	"mucosal"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	53	"male"	NA
+"Pt108_on_rna_038"	"Pt108_038"	"unknown"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	37	"female"	NA
+"Pt10_on_rna_038"	"Pt10_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-naive"	81	"female"	NA
+"Pt10_pre_rna_038"	"Pt10_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	81	"female"	NA
+"Pt11_on_rna_038"	"Pt11_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	61	"female"	NA
+"Pt11_pre_rna_038"	"Pt11_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	61	"female"	NA
+"Pt13_on_rna_038"	"Pt13_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	67	"male"	NA
+"Pt17_on_rna_038"	"Pt17_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	48	"female"	NA
+"Pt17_pre_rna_038"	"Pt17_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	48	"female"	NA
+"Pt18_on_rna_038"	"Pt18_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-naive"	53	"male"	NA
+"Pt18_pre_rna_038"	"Pt18_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	53	"male"	NA
+"Pt1_on_rna_038"	"Pt1_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	NA	NA
+"Pt1_pre_rna_038"	"Pt1_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	NA	NA
+"Pt24_pre_rna_038"	"Pt24_038"	"unknown"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	63	"male"	NA
+"Pt26_on_rna_038"	"Pt26_038"	"mucosal"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	22	"female"	NA
+"Pt26_pre_rna_038"	"Pt26_038"	"mucosal"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	22	"female"	NA
+"Pt27_on_rna_038"	"Pt27_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	65	"male"	NA
+"Pt27_pre_rna_038"	"Pt27_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	65	"male"	NA
+"Pt28_on_rna_038"	"Pt28_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	79	"female"	NA
+"Pt28_pre_rna_038"	"Pt28_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	79	"female"	NA
+"Pt29_pre_rna_038"	"Pt29_038"	"unknown"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	57	"female"	NA
+"Pt2_on_rna_038"	"Pt2_038"	"unknown"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	NA	NA
+"Pt2_pre_rna_038"	"Pt2_038"	"unknown"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	NA	NA	NA
+"Pt30_on_rna_038"	"Pt30_038"	"mucosal"	"038"	"PD1-on"	"PD1"	"CR"	"CRPR"	"ipi-naive"	89	"female"	NA
+"Pt30_pre_rna_038"	"Pt30_038"	"mucosal"	"038"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	89	"female"	NA
+"Pt31_on_rna_038"	"Pt31_038"	"unknown"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	56	"female"	NA
+"Pt31_pre_rna_038"	"Pt31_038"	"unknown"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	56	"female"	NA
+"Pt32_on_rna_038"	"Pt32_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	34	"male"	NA
+"Pt34_on_rna_038"	"Pt34_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	71	"male"	NA
+"Pt34_pre_rna_038"	"Pt34_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	71	"male"	NA
+"Pt36_on_rna_038"	"Pt36_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	58	"male"	NA
+"Pt36_pre_rna_038"	"Pt36_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	58	"male"	NA
+"Pt37_on_rna_038"	"Pt37_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	63	"male"	NA
+"Pt37_pre_rna_038"	"Pt37_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	63	"male"	NA
+"Pt38_on_rna_038"	"Pt38_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	54	"female"	NA
+"Pt38_pre_rna_038"	"Pt38_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	54	"female"	NA
+"Pt39_pre_rna_038"	"Pt39_038"	"mucosal"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	NA	NA
+"Pt3_on_rna_038"	"Pt3_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-naive"	52	"male"	NA
+"Pt3_pre_rna_038"	"Pt3_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	52	"male"	NA
+"Pt44_on_rna_038"	"Pt44_038"	"mucosal"	"038"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-naive"	61	"male"	NA
+"Pt44_pre_rna_038"	"Pt44_038"	"mucosal"	"038"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	61	"male"	NA
+"Pt46_on_rna_038"	"Pt46_038"	"unknown"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	79	"male"	NA
+"Pt46_pre_rna_038"	"Pt46_038"	"unknown"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	79	"male"	NA
+"Pt47_on_rna_038"	"Pt47_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	52	"male"	NA
+"Pt47_pre_rna_038"	"Pt47_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	52	"male"	NA
+"Pt48_on_rna_038"	"Pt48_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"CR"	"CRPR"	"ipi-experienced"	44	"male"	NA
+"Pt48_pre_rna_038"	"Pt48_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-experienced"	44	"male"	NA
+"Pt49_on_rna_038"	"Pt49_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	52	"female"	NA
+"Pt49_pre_rna_038"	"Pt49_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	52	"female"	NA
+"Pt4_on_rna_038"	"Pt4_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-naive"	62	"female"	NA
+"Pt4_pre_rna_038"	"Pt4_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	62	"female"	NA
+"Pt52_on_rna_038"	"Pt52_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	45	"female"	NA
+"Pt52_pre_rna_038"	"Pt52_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	45	"female"	NA
+"Pt58_on_rna_038"	"Pt58_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	53	"female"	NA
+"Pt59_pre_rna_038"	"Pt59_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	49	"female"	NA
+"Pt5_on_rna_038"	"Pt5_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	58	"female"	NA
+"Pt5_pre_rna_038"	"Pt5_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	58	"female"	NA
+"Pt62_on_rna_038"	"Pt62_038"	"uveal"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	NA	NA
+"Pt62_pre_rna_038"	"Pt62_038"	"uveal"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	NA	NA	NA
+"Pt65_on_rna_038"	"Pt65_038"	"acral"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	63	"female"	NA
+"Pt65_pre_rna_038"	"Pt65_038"	"acral"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	63	"female"	NA
+"Pt66_pre_rna_038"	"Pt66_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	49	"female"	NA
+"Pt67_on_rna_038"	"Pt67_038"	"uveal"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	33	"female"	NA
+"Pt67_pre_rna_038"	"Pt67_038"	"uveal"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	33	"female"	NA
+"Pt68_on_rna_038"	"Pt68_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PR"	"CRPR"	"ipi-experienced"	69	"male"	NA
+"Pt72_pre_rna_038"	"Pt72_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PR"	"CRPR"	"ipi-naive"	43	"female"	NA
+"Pt77_on_rna_038"	"Pt77_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-naive"	56	"female"	NA
+"Pt77_pre_rna_038"	"Pt77_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	56	"female"	NA
+"Pt78_on_rna_038"	"Pt78_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	NA	NA
+"Pt78_pre_rna_038"	"Pt78_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	NA	NA	NA
+"Pt79_on_rna_038"	"Pt79_038"	"unknown"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	64	"male"	NA
+"Pt79_pre_rna_038"	"Pt79_038"	"unknown"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	64	"male"	NA
+"Pt82_on_rna_038"	"Pt82_038"	"uveal"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	60	"female"	NA
+"Pt82_pre_rna_038"	"Pt82_038"	"uveal"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	60	"female"	NA
+"Pt84_on_rna_038"	"Pt84_038"	"unknown"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	48	"female"	NA
+"Pt84_pre_rna_038"	"Pt84_038"	"unknown"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	48	"female"	NA
+"Pt85_on_rna_038"	"Pt85_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	66	"male"	NA
+"Pt85_pre_rna_038"	"Pt85_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	66	"male"	NA
+"Pt87_on_rna_038"	"Pt87_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-naive"	68	"male"	NA
+"Pt89_on_rna_038"	"Pt89_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-naive"	56	"male"	NA
+"Pt89_pre_rna_038"	"Pt89_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-naive"	56	"male"	NA
+"Pt8_on_rna_038"	"Pt8_038"	"mucosal"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	40	"male"	NA
+"Pt8_pre_rna_038"	"Pt8_038"	"mucosal"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	40	"male"	NA
+"Pt90_pre_rna_038"	"Pt90_038"	"mucosal"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-experienced"	60	"female"	NA
+"Pt92_on_rna_038"	"Pt92_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	58	"male"	NA
+"Pt92_pre_rna_038"	"Pt92_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	58	"male"	NA
+"Pt93_on_rna_038"	"Pt93_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-experienced"	52	"male"	NA
+"Pt94_on_rna_038"	"Pt94_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"CR"	"CRPR"	"ipi-naive"	41	"male"	NA
+"Pt94_pre_rna_038"	"Pt94_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"CR"	"CRPR"	"ipi-naive"	41	"male"	NA
+"Pt98_on_rna_038"	"Pt98_038"	"uveal"	"038"	"PD1-on"	"PD1"	"SD"	"SD"	"ipi-experienced"	74	"male"	NA
+"Pt98_pre_rna_038"	"Pt98_038"	"uveal"	"038"	"PD1-pre"	"PD1"	"SD"	"SD"	"ipi-experienced"	74	"male"	NA
+"Pt9_on_rna_038"	"Pt9_038"	"cutaneous"	"038"	"PD1-on"	"PD1"	"PD"	"PD"	"ipi-naive"	46	"male"	NA
+"Pt9_pre_rna_038"	"Pt9_038"	"cutaneous"	"038"	"PD1-pre"	"PD1"	"PD"	"PD"	"ipi-naive"	46	"male"	NA
+"ipiPD1_12_PRE_gide"	"ipiPD1_12_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PD"	"PD"	"ipi-naive"	55	"female"	"Lung"
+"ipiPD1_13_EDT_gide"	"ipiPD1_13_gide"	"cutaneous"	"gide"	"Combo-on"	"Combo"	"PR"	"CRPR"	"ipi-naive"	68	"female"	"Subcutaneous Tissue"
+"ipiPD1_13_PRE_gide"	"ipiPD1_13_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	68	"female"	"Subcutaneous Tissue"
+"ipiPD1_14_PRE_gide"	"ipiPD1_14_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"SD"	"SD"	"ipi-naive"	47	"female"	"Subcutaneous Tissue"
+"ipiPD1_15_PRE_gide"	"ipiPD1_15_gide"	"mucosal"	"gide"	"Combo-pre"	"Combo"	"SD"	"SD"	"ipi-naive"	57	"male"	"Subcutaneous Tissue"
+"ipiPD1_17_PRE_gide"	"ipiPD1_17_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	48	"female"	"Lymph Node"
+"ipiPD1_19_EDT_gide"	"ipiPD1_19_gide"	"cutaneous"	"gide"	"Combo-on"	"Combo"	"SD"	"SD"	"ipi-naive"	56	"male"	"Subcutaneous Tissue"
+"ipiPD1_19_PRE_gide"	"ipiPD1_19_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"SD"	"SD"	"ipi-naive"	56	"male"	"Subcutaneous Tissue"
+"ipiPD1_1_EDT_gide"	"ipiPD1_1_gide"	"cutaneous"	"gide"	"Combo-on"	"Combo"	"PD"	"PD"	"ipi-naive"	42	"female"	"Subcutaneous Tissue"
+"ipiPD1_1_PRE_gide"	"ipiPD1_1_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PD"	"PD"	"ipi-naive"	42	"female"	"Subcutaneous Tissue"
+"ipiPD1_20_PRE_gide"	"ipiPD1_20_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"SD"	"SD"	"ipi-naive"	57	"male"	"Lymph Node"
+"ipiPD1_21_PRE_gide"	"ipiPD1_21_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	63	"male"	"Subcutaneous Tissue"
+"ipiPD1_23_PRE_gide"	"ipiPD1_23_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	51	"female"	"Brain"
+"ipiPD1_24_PRE_gide"	"ipiPD1_24_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	34	"male"	"Lymph Node"
+"ipiPD1_25_PRE_gide"	"ipiPD1_25_gide"	"unknown"	"gide"	"Combo-pre"	"Combo"	"SD"	"SD"	"ipi-naive"	67	"female"	"Lymph Node"
+"ipiPD1_26_PRE_gide"	"ipiPD1_26_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	75	"male"	"Lymph Node"
+"ipiPD1_27_EDT_gide"	"ipiPD1_27_gide"	"unknown"	"gide"	"Combo-on"	"Combo"	"CR"	"CRPR"	"ipi-naive"	49	"male"	"Subcutaneous Tissue"
+"ipiPD1_27_PRE_gide"	"ipiPD1_27_gide"	"unknown"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	49	"male"	"Abdomen"
+"ipiPD1_2_PRE_gide"	"ipiPD1_2_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PD"	"PD"	"ipi-naive"	41	"male"	"Lymph Node"
+"ipiPD1_32_PRE_gide"	"ipiPD1_32_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	71	"male"	"Lymph Node"
+"ipiPD1_33_EDT_gide"	"ipiPD1_33_gide"	"cutaneous"	"gide"	"Combo-on"	"Combo"	"PR"	"CRPR"	"ipi-naive"	73	"male"	"Subcutaneous Tissue"
+"ipiPD1_33_PRE_gide"	"ipiPD1_33_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	73	"male"	"Subcutaneous Tissue"
+"ipiPD1_34_PRE_gide"	"ipiPD1_34_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	51	"male"	"Lung"
+"ipiPD1_35_EDT_gide"	"ipiPD1_35_gide"	"cutaneous"	"gide"	"Combo-on"	"Combo"	"CR"	"CRPR"	"ipi-naive"	72	"male"	"Subcutaneous Tissue"
+"ipiPD1_35_PRE_gide"	"ipiPD1_35_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	72	"male"	"Subcutaneous Tissue"
+"ipiPD1_36_EDT_gide"	"ipiPD1_36_gide"	"cutaneous"	"gide"	"Combo-on"	"Combo"	"CR"	"CRPR"	"ipi-naive"	74	"female"	"Subcutaneous Tissue"
+"ipiPD1_36_PRE_gide"	"ipiPD1_36_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	74	"female"	"Subcutaneous Tissue"
+"ipiPD1_37_PRE_gide"	"ipiPD1_37_gide"	"unknown"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	76	"male"	"Lymph Node"
+"ipiPD1_38_PRE_gide"	"ipiPD1_38_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	59	"female"	"Subcutaneous Tissue"
+"ipiPD1_44_PRE_gide"	"ipiPD1_44_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	68	"male"	"Subcutaneous Tissue"
+"ipiPD1_45_PRE_gide"	"ipiPD1_45_gide"	"mucosal"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	70	"male"	"Other"
+"ipiPD1_46_PRE_gide"	"ipiPD1_46_gide"	"unknown"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	54	"female"	"Lung"
+"ipiPD1_47_PRE_gide"	"ipiPD1_47_gide"	"unknown"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	24	"female"	"Subcutaneous Tissue"
+"ipiPD1_49_PRE_gide"	"ipiPD1_49_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"CR"	"CRPR"	"ipi-naive"	36	"male"	"Lymph Node"
+"ipiPD1_4_EDT_gide"	"ipiPD1_4_gide"	"cutaneous"	"gide"	"Combo-on"	"Combo"	"PD"	"PD"	"ipi-naive"	48	"male"	"Subcutaneous Tissue"
+"ipiPD1_50_PRE_gide"	"ipiPD1_50_gide"	"unknown"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	68	"male"	"Lymph Node"
+"ipiPD1_6_PRE_gide"	"ipiPD1_6_gide"	"acral"	"gide"	"Combo-pre"	"Combo"	"PD"	"PD"	"ipi-naive"	75	"male"	"Lymph Node"
+"ipiPD1_7_PRE_gide"	"ipiPD1_7_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PR"	"CRPR"	"ipi-naive"	59	"male"	"Subcutaneous Tissue"
+"ipiPD1_8_PRE_gide"	"ipiPD1_8_gide"	"cutaneous"	"gide"	"Combo-pre"	"Combo"	"PD"	"PD"	"ipi-naive"	55	"male"	"Lymph Node"
+"ipiPD1_9_EDT_gide"	"ipiPD1_9_gide"	"cutaneous"	"gide"	"Combo-on"	"Combo"	"PD"	"PD"	"ipi-naive"	56	"male"	"Subcutaneous Tissue"
