@@ -12,7 +12,8 @@ file_name
 file_name
 
 ### RNA sequencing (RNAseq)
-RNA-CancerCell-MORRISON1-metadata.tsv= Metadata file describing samples and subjects that match to RNAseq data.
+*RNA-CancerCell-MORRISON1-metadata.tsv*
+Metadata file describing samples and subjects that match to RNAseq data.
 - sample.id=unique sample identifier
 - subject.id=unique subject identifier
 - sample.tumor.type=tumor type
