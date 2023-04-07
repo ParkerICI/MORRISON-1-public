@@ -12,7 +12,7 @@ file_name
 file_name
 
 ### RNA sequencing (RNAseq)
-RNA-CancerCell-MORRISON1-metadata.tsv = Metadata file describing samples and subjects that match to RNAseq data.
+RNA-CancerCell-MORRISON1-metadata.tsv =  Metadata file describing samples and subjects that match to RNAseq data.
 - sample.id=unique sample identifier
 - subject.id=unique subject identifier
 - sample.tumor.type=tumor type
@@ -26,7 +26,7 @@ RNA-CancerCell-MORRISON1-metadata.tsv = Metadata file describing samples and sub
 - subject.sex=subject sex
 - sample.freetext.anatomic.site=anatomical site of tumor
 
-RNA-CancerCell-MORRISON1-immune_signatures-tiara_pd1-all_samples.tsv = File containing gene, celltype, tiara-pd1, tide, and impres signatures across all samples.
+RNA-CancerCell-MORRISON1-immune_signatures-tiara_pd1-all_samples.tsv =  File containing gene, celltype, tiara-pd1, tide, and impres signatures across all samples.
 - sample.id=unique sample identifier
 - subject.id=unique subject identifier
 - response=RECIST: as CRPR, PD, or SD
@@ -60,7 +60,7 @@ RNA-CancerCell-MORRISON1-immune_signatures-tiara_pd1-all_samples.tsv = File cont
 - TIDE=TIDE score, computed with prior immunotherapy status considered for samples with prior anti-CTLA-4 experience
 - tiara_pd1=TIARA-PD1 score 
 
-RNA-CancerCell-MORRISON1-immune_signatures-tiara_pd1-cutaneous_melanoma-antiPD1_regimen.tsv = File containing gene, celltype, tiara-pd1, tide, and impres signatures across all samples corresponding to primary dataset focus in the manuscript: the baseline cutaneous, anti-PD1 treatment regimen, CRPR/PD group.
+RNA-CancerCell-MORRISON1-immune_signatures-tiara_pd1-cutaneous_melanoma-antiPD1_regimen.tsv =  File containing gene, celltype, tiara-pd1, tide, and impres signatures across all samples corresponding to primary dataset focus in the manuscript: the baseline cutaneous, anti-PD1 treatment regimen, CRPR/PD group.
 - sample.id=unique sample identifier
 - subject.id=unique subject identifier
 - response=RECIST, as CRPR, PD, or SD
@@ -94,17 +94,17 @@ RNA-CancerCell-MORRISON1-immune_signatures-tiara_pd1-cutaneous_melanoma-antiPD1_
 - TIDE=TIDE score, computed with prior immunotherapy status considered for samples with prior anti-CTLA-4 experience
 - tiara_pd1=TIARA-PD1 score 
 
-RNA-CancerCell-MORRISON1-no_batch_correction-logcpm-all_samples.tsv = Logcpm count data across all samples, without batch correction.
+RNA-CancerCell-MORRISON1-no_batch_correction-logcpm-all_samples.tsv =  Logcpm count data across all samples, without batch correction.
 - gene.hgnc.symbol=Gene symbol
-- remaining columns =Corresponding sample.id found in metadata file
+- remaining columns = Corresponding sample.id found in metadata file
 
-RNA-CancerCell-MORRISON1-combat_batch_corrected-logcpm-all_samples.tsv =  Logcpm Batch-corrected data across all samples.
+RNA-CancerCell-MORRISON1-combat_batch_corrected-logcpm-all_samples.tsv =   Logcpm Batch-corrected data across all samples.
 - gene.hgnc.symbol=Gene symbol
-- remaining columns =Corresponding sample.id found in metadata file
+- remaining columns = Corresponding sample.id found in metadata file
 
-RNA-CancerCell-MORRISON1-combat_batch_corrected-logcpm-cutaneous_antiPD1_only.tsv = Logcpm batch-corrected data corresponding to primary dataset focus in the manuscript: the baseline cutaneous, anti-PD1 treatment regimen, CRPR/PD group.
+RNA-CancerCell-MORRISON1-combat_batch_corrected-logcpm-cutaneous_antiPD1_only.tsv =  Logcpm batch-corrected data corresponding to primary dataset focus in the manuscript: the baseline cutaneous, anti-PD1 treatment regimen, CRPR/PD group.
 - gene.hgnc.symbol=Gene symbol
-- remaining columns =Corresponding sample.id found in metadata file
+- remaining columns = Corresponding sample.id found in metadata file
 
 
 
