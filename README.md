@@ -5,11 +5,50 @@ This repository contains the processed genomics and transcriptomics data used in
 
 ## DATA DICTIONARY
 ### Clinical
-file_name
-- 
+**Subjects-CancerCell-MORRISON1-metadata.tsv**: Metadata file describing subjects from the reported study.
+- subject.id=unique subject identifier
+- sample.tumor.type=tumor type (cutaneous, acral, mucosal, uveal, unknown)
+- meddra.disease.preferred.name=MedDRA coded disease type
+- subject.age=subject age
+- subject.sex=subject sex
+- treatment.regimen.name=treatment regimen
+- bor=best overall response defined by RECIST
+- pfs=progression free survival
+- os=overall survival
+- previous.treatment=prior treatment group (previously received anti-CTLA-4 or anti-CTLA-4 naive)
+- cohort=cohort described in manuscript
 
 ### Whole exome sequencing (WES)
-file_name
+**WES-CancerCell-MORRISON1-metadata.tsv**: Metadata file describing samples and subjects from the reported WES data.
+- sample.id=unique sample identifier
+- subject.id=unique subject identifier
+- matched.normal=matched normal WES identifier
+- sample.tumor.type=tumor type
+- cohort=cohort described in manuscript
+- timepoint.id=timepoint of sample in the context of the treatment regimen
+- treatment.regimen.name=treatment regimen
+- bor=best overall response defined by RECIST
+- response=RECIST: as CRPR, PD, or SD
+- previous.treatment=prior treatment group
+- subject.age=subject age
+- subject.sex=subject sex
+- sample.freetext.anatomic.site=anatomical site of tumor
+- purity=tumor purity estimated by Sequenza
+- ploidy=tumor ploidy estimated by Sequenza
+- contamination=estimated contamination by GATK CalculateContamination
+- tmb=quantified tumor nonsilent TMB in mutations per megabase
+
+**WES-CancerCell-MORRISON1-variants.tsv**: File containing all variants detected across all samples.
+- sample.id=unique sample identifier
+- subject.id=unique subject identifier
+- response=RECIST: as CRPR, PD, or SD
+- previous.treatment=prior treatment group
+- variant.id=unique identifier corresponding the mutation (genome:chromosome:strand:start:end:referance allele:variant allele)
+- gene.hgnc.symbol=HGNC gene symbol
+- collapsed.consequences=VEP variant annotation (collapsed to the highest impact)
+- variant.HGVSp=HGVSp annotation of mutation
+- aa.change=amino acid change
+- vaf=tumor VAF
 
 ### RNA sequencing (RNAseq)
 **RNA-CancerCell-MORRISON1-metadata.tsv**: Metadata file describing samples and subjects that match to RNAseq data.

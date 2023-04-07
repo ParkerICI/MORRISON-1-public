@@ -1,0 +1,428 @@
+subject.id	sample.tumor.type	meddra.disease.preferred.name	subject.age	subject.sex	treatment.regimen.name	bor	pfs	os	previous.treatment	cohort
+10_067	cutaneous	Malignant melanoma	36	male	PD1	CR	51.909653	56.082134	naive	067
+11_067	cutaneous	Malignant melanoma	43	male	PD1	PD	2.5626283	40.837784	naive	067
+118_va	cutaneous	Malignant melanoma	43	female	CTLA4	PD	120	313	naive	va
+119_va	cutaneous	Malignant melanoma	61	male	CTLA4	PD	108	808	naive	va
+12_067	cutaneous	Malignant melanoma	52	male	CTLA4	CR	27.958933	51.41684	naive	067
+123_va	unknown	Malignant neoplasm of unknown primary site	50	female	CTLA4	SD	544	853	naive	va
+126_va	cutaneous	Malignant melanoma	77	male	CTLA4	PR	187	641	naive	va
+13_067	cutaneous	Malignant melanoma	53	female	PD1	PD	2.5297742	14.784394	naive	067
+14_067	cutaneous	Malignant melanoma	64	male	PD1	PD	0.03285421	31.244352	naive	067
+14_va	cutaneous	Malignant melanoma	48	female	CTLA4	PD	84	163	naive	va
+15_067	cutaneous	Malignant melanoma	64	male	Combo	PD	1.3798769	11.696098	naive	067
+15_va	cutaneous	Malignant melanoma	32	male	CTLA4	PD	31	50	naive	va
+16_067	cutaneous	Malignant melanoma	60	female	Combo	PR	4.1724844	52.862423	naive	067
+16_va	cutaneous	Malignant melanoma	68	female	CTLA4	PD	84	811	naive	va
+17_067	cutaneous	Malignant melanoma	68	male	PD1	SD	4.0410676	19.843943	naive	067
+18_067	cutaneous	Malignant melanoma	68	male	Combo	PR	52.731007	52.731007	naive	067
+19_067	cutaneous	Malignant melanoma	84	female	CTLA4	PD	1.0841889	2.8583162	naive	067
+19_va	cutaneous	Malignant melanoma	59	male	CTLA4	PD	21	175	naive	va
+2_067	cutaneous	Malignant melanoma	46	female	Combo	CR	25.98768	51.088295	naive	067
+20_067	cutaneous	Malignant melanoma	58	male	Combo	PD	2.7597537	52.36961	naive	067
+20_va	cutaneous	Malignant melanoma	78	male	CTLA4	PD	71	116	naive	va
+21_067	cutaneous	Malignant melanoma	51	male	CTLA4	PR	15.211499	51.97536	naive	067
+22_067	cutaneous	Malignant melanoma	54	female	PD1	CR	16.62423	37.946613	naive	067
+23_067	cutaneous	Malignant melanoma	61	male	CTLA4	PR	8.772074	14.028748	naive	067
+24_067	cutaneous	Malignant melanoma	81	male	CTLA4	PD	2.4969199	49.47844	naive	067
+25_va	cutaneous	Malignant melanoma	69	male	CTLA4	PD	67	325	naive	va
+26_067	cutaneous	Malignant melanoma	55	male	PD1	PR	36.13963	50.234085	naive	067
+27_067	cutaneous	Malignant melanoma	82	male	Combo	CR	5.486653	14.390143	naive	067
+27_va	cutaneous	Malignant melanoma	61	male	CTLA4	PD	139	1379	naive	va
+28_067	cutaneous	Malignant melanoma	72	male	Combo	PR	35.81109	50.398357	naive	067
+28_va	cutaneous	Malignant melanoma	77	male	CTLA4	PD	77	1184	naive	va
+29_067	cutaneous	Malignant melanoma	76	male	PD1	PR	24.804928	46.488705	naive	067
+3_067	cutaneous	Malignant melanoma	85	male	CTLA4	PD	3.154004	5.4209447	naive	067
+3_va	cutaneous	Malignant melanoma	61	female	CTLA4	PD	76	100	naive	va
+30_067	cutaneous	Malignant melanoma	56	female	CTLA4	PR	24.870636	48.427105	naive	067
+33_067	cutaneous	Malignant melanoma	62	female	PD1	CR	49.675564	54.70226	naive	067
+33_va	cutaneous	Malignant melanoma	65	male	CTLA4	PD	211	211	naive	va
+34_067	cutaneous	Malignant melanoma	58	female	PD1	PD	2.7597537	54.143738	naive	067
+35_067	cutaneous	Malignant melanoma	59	female	CTLA4	SD	5.5195074	52.731007	naive	067
+36_067	cutaneous	Malignant melanoma	70	male	CTLA4	SD	11.301848	51.022587	naive	067
+36_va	cutaneous	Malignant melanoma	52	female	CTLA4	PD	41	54	naive	va
+37_va	cutaneous	Malignant melanoma	47	female	CTLA4	PD	23	70	naive	va
+38_va	cutaneous	Malignant melanoma	45	male	CTLA4	PR	302	1539	naive	va
+39_067	cutaneous	Malignant melanoma	34	male	PD1	PD	2.2997947	9.856263	naive	067
+39_va	cutaneous	Malignant melanoma	67	male	CTLA4	CR	1487	1487	naive	va
+4_067	cutaneous	Malignant melanoma	47	female	CTLA4	PD	2.2997947	7.49076	naive	067
+4_va	cutaneous	Malignant melanoma	71	male	CTLA4	PR	646	987	naive	va
+40_067	cutaneous	Malignant melanoma	72	female	Combo	SD	4.0082135	52.336754	naive	067
+40_va	cutaneous	Malignant melanoma	74	male	CTLA4	PD	34	34	naive	va
+41_va	cutaneous	Malignant melanoma	64	male	CTLA4	PD	54	128	naive	va
+42_067	cutaneous	Malignant melanoma	59	female	Combo	CR	55.852158	55.852158	naive	067
+43_va	cutaneous	Malignant melanoma	75	female	CTLA4	PD	37	37	naive	va
+44_067	cutaneous	Malignant melanoma	66	male	Combo	PR	10.874743	52.238194	naive	067
+44_va	cutaneous	Malignant melanoma	57	female	CTLA4	PD	62	271	naive	va
+45_067	cutaneous	Malignant melanoma	51	male	Combo	PR	36.04107	39.0308	naive	067
+45_va	cutaneous	Malignant melanoma	68	male	CTLA4	PD	61	89	naive	va
+46_067	acral	Acral lentiginous melanoma	43	male	CTLA4	PD	2.6283367	25.724846	naive	067
+46_va	unknown	Malignant neoplasm of unknown primary site	36	female	CTLA4	PD	36	160	naive	va
+47_067	cutaneous	Malignant melanoma	53	male	PD1	SD	6.86653	51.383984	naive	067
+47_va	cutaneous	Malignant melanoma	78	male	CTLA4	CR	1106	1106	naive	va
+48_067	cutaneous	Malignant melanoma	43	female	CTLA4	PD	2.7268994	12.057495	naive	067
+49_067	cutaneous	Malignant melanoma	45	male	Combo	PR	5.8809037	5.8809037	naive	067
+49_va	cutaneous	Malignant melanoma	36	male	CTLA4	SD	163	1034	naive	va
+5_067	cutaneous	Malignant melanoma	34	male	PD1	PR	5.322382	49.08419	naive	067
+50_067	cutaneous	Malignant melanoma	79	male	PD1	PD	1.6755646	2.4312115	naive	067
+50_va	cutaneous	Malignant melanoma	77	male	CTLA4	PD	65	65	naive	va
+52_067	acral	Acral lentiginous melanoma	53	male	CTLA4	PD	2.5954826	21.486652	naive	067
+53_067	cutaneous	Malignant melanoma	67	male	PD1	SD	5.7494864	49.675564	naive	067
+54_067	cutaneous	Malignant melanoma	58	male	PD1	SD	0.6899384	12.64887	naive	067
+55_067	cutaneous	Malignant melanoma	35	male	PD1	PD	2.365503	36.829567	naive	067
+56_067	unknown	Malignant neoplasm of unknown primary site	49	female	CTLA4	PR	12.386037	37.585217	naive	067
+57_067	cutaneous	Malignant melanoma	57	male	CTLA4	PD	2.5626283	17.675564	naive	067
+58_067	cutaneous	Malignant melanoma	46	female	Combo	PR	16.131416	56.41068	naive	067
+59_067	cutaneous	Malignant melanoma	80	male	PD1	CR	22.340862	56.44353	naive	067
+6_067	cutaneous	Malignant melanoma	61	female	CTLA4	PD	2.5626283	10.710472	naive	067
+6_va	cutaneous	Malignant melanoma	33	male	CTLA4	PD	77	161	naive	va
+60_067	cutaneous	Malignant melanoma	68	female	PD1	PR	6.1437373	6.899384	naive	067
+61_067	cutaneous	Malignant melanoma	57	male	Combo	PR	45.43737	49.379875	naive	067
+62_067	cutaneous	Malignant melanoma	40	male	CTLA4	SD	4.1724844	34.431213	naive	067
+63_067	cutaneous	Malignant melanoma	74	male	Combo	PD	2.5954826	53.190964	naive	067
+64_067	cutaneous	Malignant melanoma	51	male	CTLA4	SD	6.86653	16.85421	naive	067
+65_067	cutaneous	Malignant melanoma	82	male	CTLA4	PR	50.10267	50.10267	naive	067
+66_067	cutaneous	Malignant melanoma	66	male	PD1	PR	51.12115	52.336754	naive	067
+67_067	cutaneous	Malignant melanoma	50	male	CTLA4	PR	5.190965	53.25667	naive	067
+68_067	cutaneous	Malignant melanoma	71	male	CTLA4	CR	4.0082135	13.700206	naive	067
+69_067	cutaneous	Malignant melanoma	56	male	PD1	CR	45.010265	54.669403	naive	067
+71_067	unknown	Malignant neoplasm of unknown primary site	38	female	Combo	SD	5.5195074	50.825462	naive	067
+79_va	cutaneous	Malignant melanoma	69	male	CTLA4	PR	405	801	naive	va
+8_067	cutaneous	Malignant melanoma	82	male	Combo	PD	2.5297742	27.46612	naive	067
+8_va	mucosal	Malignant melanoma of sites other than skin	73	male	CTLA4	PD	73	140	naive	va
+80_va	cutaneous	Malignant melanoma	48	male	CTLA4	SD	182	724	naive	va
+81_va	mucosal	Malignant melanoma of sites other than skin	54	female	CTLA4	PD	76	628	naive	va
+83_va	cutaneous	Malignant melanoma	22	male	CTLA4	PD	107	1027	naive	va
+85_va	cutaneous	Malignant melanoma	83	male	CTLA4	PD	83	458	naive	va
+86_va	cutaneous	Malignant melanoma	55	male	CTLA4	SD	153	293	naive	va
+88_va	cutaneous	Malignant melanoma	60	female	CTLA4	SD	665	989	naive	va
+90_va	cutaneous	Malignant melanoma	59	male	CTLA4	PR	669	1005	naive	va
+91_va	cutaneous	Malignant melanoma	81	male	CTLA4	SD	680	680	naive	va
+98_va	cutaneous	Malignant melanoma	57	female	CTLA4	PD	77	140	naive	va
+CA209064-4-64018_064	cutaneous	Malignant melanoma	47	male	CTLA4-to-PD1	SD	NA	19.154005	naive	064
+CA209064-4-64020_064	cutaneous	Malignant melanoma	82	male	CTLA4-to-PD1	PR	NA	35.44969	naive	064
+CA209064-4-64026_064	cutaneous	Malignant melanoma	31	male	CTLA4-to-PD1	PR	NA	50.398357	naive	064
+CA209064-4-64028_064	cutaneous	Malignant melanoma	62	female	CTLA4-to-PD1	PD	NA	50.168377	naive	064
+CA209064-4-64030_064	cutaneous	Malignant melanoma	78	male	CTLA4-to-PD1	PD	NA	49.609856	naive	064
+CA209064-4-64033_064	cutaneous	Malignant melanoma	56	male	CTLA4-to-PD1	PD	NA	21.322382	naive	064
+CA209064-4-64034_064	cutaneous	Malignant melanoma	65	male	PD1-to-CTLA4	PR	NA	49.314167	naive	064
+CA209064-4-64039_064	cutaneous	Malignant melanoma	42	female	PD1-to-CTLA4	PR	NA	49.347023	naive	064
+CA209064-4-64044_064	cutaneous	Malignant melanoma	74	male	PD1-to-CTLA4	PR	NA	49.215607	naive	064
+CA209064-4-64045_064	cutaneous	Malignant melanoma	58	male	PD1-to-CTLA4	PR	NA	49.018482	naive	064
+CA209064-4-64049_064	cutaneous	Malignant melanoma	58	male	CTLA4-to-PD1	PD	NA	48.985626	naive	064
+CA209064-4-64055_064	cutaneous	Malignant melanoma	64	female	PD1-to-CTLA4	PR	NA	49.018482	naive	064
+CA209064-4-64066_064	mucosal	Malignant melanoma of sites other than skin	62	male	PD1-to-CTLA4	PR	NA	10.283367	naive	064
+CA209064-4-64067_064	uveal	Uveal melanoma	72	female	PD1-to-CTLA4	PD	NA	20.303902	naive	064
+CA209064-4-64069_064	cutaneous	Malignant melanoma	66	male	CTLA4-to-PD1	SD	NA	48.52567	naive	064
+CA209064-4-64077_064	cutaneous	Malignant melanoma	38	male	CTLA4-to-PD1	PD	NA	14.094456	naive	064
+CA209064-4-64080_064	cutaneous	Malignant melanoma	63	male	PD1-to-CTLA4	PR	NA	48.32854	naive	064
+CA209064-4-64083_064	cutaneous	Malignant melanoma	73	male	PD1-to-CTLA4	PD	NA	7.950719	naive	064
+CA209064-4-64102_064	cutaneous	Malignant melanoma	72	male	CTLA4-to-PD1	PD	NA	47.60575	naive	064
+CA209064-4-64105_064	cutaneous	Malignant melanoma	74	male	CTLA4-to-PD1	SD	NA	46.784393	naive	064
+CA209064-4-64108_064	cutaneous	Malignant melanoma	67	male	CTLA4-to-PD1	PR	NA	46.685833	naive	064
+CA209064-4-64112_064	cutaneous	Malignant melanoma	61	female	CTLA4-to-PD1	PR	NA	46.324436	naive	064
+CA209064-4-64114_064	cutaneous	Malignant melanoma	40	male	PD1-to-CTLA4	PD	NA	6.0451746	naive	064
+CA209064-4-64125_064	cutaneous	Malignant melanoma	54	male	CTLA4-to-PD1	SD	NA	43.6961	naive	064
+CA209064-4-64127_064	cutaneous	Malignant melanoma	32	female	PD1-to-CTLA4	PD	NA	6.2094455	naive	064
+CA209064-4-64140_064	cutaneous	Malignant melanoma	66	male	CTLA4-to-PD1	PD	NA	41.462013	naive	064
+CA209064-4-64142_064	acral	Acral lentiginous melanoma	68	male	CTLA4-to-PD1	PD	NA	10.151951	naive	064
+CA209064-4-64146_064	cutaneous	Malignant melanoma	84	male	CTLA4-to-PD1	PD	NA	16.887064	naive	064
+CA209064-4-64149_064	uveal	Uveal melanoma	63	female	CTLA4-to-PD1	PD	NA	7.3264885	naive	064
+CA209064-4-64155_064	cutaneous	Malignant melanoma	72	male	PD1-to-CTLA4	PR	NA	40.246407	naive	064
+CA209064-4-64156_064	mucosal	Malignant melanoma of sites other than skin	70	male	PD1-to-CTLA4	PD	NA	11.00616	naive	064
+CA209064-4-64157_064	cutaneous	Malignant melanoma	75	male	CTLA4-to-PD1	PD	NA	5.355236	naive	064
+CA209064-4-64158_064	cutaneous	Malignant melanoma	30	male	PD1-to-CTLA4	PD	NA	21.61807	naive	064
+CA209064-4-64159_064	cutaneous	Malignant melanoma	73	female	CTLA4-to-PD1	PD	NA	39.65503	naive	064
+CA209064-4-64160_064	cutaneous	Malignant melanoma	40	male	CTLA4-to-PD1	PR	NA	39.8193	naive	064
+CA209064-4-64170_064	cutaneous	Malignant melanoma	56	male	PD1-to-CTLA4	PR	NA	38.505135	naive	064
+CA209064-4-64174_064	uveal	Uveal melanoma	52	male	PD1-to-CTLA4	PD	NA	11.827516	naive	064
+CA209064-4-64176_064	mucosal	Malignant melanoma of sites other than skin	77	male	PD1-to-CTLA4	PD	NA	10.020534	naive	064
+CA209064-7-64050_064	cutaneous	Malignant melanoma	57	male	PD1-to-CTLA4	SD	NA	23.72074	naive	064
+CA209064-7-64090_064	uveal	Uveal melanoma	51	male	CTLA4-to-PD1	SD	NA	34.00411	naive	064
+CA209064-7-64092_064	cutaneous	Malignant melanoma	53	male	CTLA4-to-PD1	PD	NA	14.094456	naive	064
+CA209064-7-64107_064	cutaneous	Malignant melanoma	49	female	PD1-to-CTLA4	PD	NA	25.429157	naive	064
+ipiPD1_1_gide	cutaneous	Malignant melanoma	42	female	Combo	PD	0.5	22.966667	naive	gide
+ipiPD1_12_gide	cutaneous	Malignant melanoma	55	female	Combo	PD	2.7333333	9.766666	naive	gide
+ipiPD1_13_gide	cutaneous	Malignant melanoma	68	female	Combo	PR	3.6	11.9	naive	gide
+ipiPD1_14_gide	cutaneous	Malignant melanoma	47	female	Combo	SD	4.1	23.033333	naive	gide
+ipiPD1_15_gide	mucosal	Malignant melanoma of sites other than skin	57	male	Combo	SD	5.0666666	22	naive	gide
+ipiPD1_17_gide	cutaneous	Malignant melanoma	48	female	Combo	PR	6.5333333	6.5333333	naive	gide
+ipiPD1_19_gide	cutaneous	Malignant melanoma	56	male	Combo	SD	10.033334	21.166666	naive	gide
+ipiPD1_2_gide	cutaneous	Malignant melanoma	41	male	Combo	PD	1.1333333	17.666666	naive	gide
+ipiPD1_20_gide	cutaneous	Malignant melanoma	57	male	Combo	SD	12.866667	17.933332	naive	gide
+ipiPD1_21_gide	cutaneous	Malignant melanoma	63	male	Combo	PR	13.666667	13.666667	naive	gide
+ipiPD1_23_gide	cutaneous	Malignant melanoma	51	female	Combo	PR	16.866667	16.866667	naive	gide
+ipiPD1_24_gide	cutaneous	Malignant melanoma	34	male	Combo	PR	16.966667	40.1	naive	gide
+ipiPD1_25_gide	unknown	Malignant neoplasm of unknown primary site	67	female	Combo	SD	17.266666	17.266666	naive	gide
+ipiPD1_26_gide	cutaneous	Malignant melanoma	75	male	Combo	CR	18.133333	18.133333	naive	gide
+ipiPD1_27_gide	unknown	Malignant neoplasm of unknown primary site	49	male	Combo	CR	18.2	18.2	naive	gide
+ipiPD1_32_gide	cutaneous	Malignant melanoma	71	male	Combo	CR	19.9	19.9	naive	gide
+ipiPD1_33_gide	cutaneous	Malignant melanoma	73	male	Combo	PR	20.3	20.3	naive	gide
+ipiPD1_34_gide	cutaneous	Malignant melanoma	51	male	Combo	CR	20.766666	20.766666	naive	gide
+ipiPD1_35_gide	cutaneous	Malignant melanoma	72	male	Combo	CR	20.9	20.9	naive	gide
+ipiPD1_36_gide	cutaneous	Malignant melanoma	74	female	Combo	CR	21.233334	21.233334	naive	gide
+ipiPD1_37_gide	unknown	Malignant neoplasm of unknown primary site	76	male	Combo	PR	21.233334	21.233334	naive	gide
+ipiPD1_38_gide	cutaneous	Malignant melanoma	59	female	Combo	CR	21.666666	21.666666	naive	gide
+ipiPD1_4_gide	cutaneous	Malignant melanoma	48	male	Combo	PD	1.3	4.3	naive	gide
+ipiPD1_44_gide	cutaneous	Malignant melanoma	68	male	Combo	PR	23.166666	23.166666	naive	gide
+ipiPD1_45_gide	mucosal	Malignant melanoma of sites other than skin	70	male	Combo	CR	24.033333	24.033333	naive	gide
+ipiPD1_46_gide	unknown	Malignant neoplasm of unknown primary site	54	female	Combo	CR	24.033333	24.033333	naive	gide
+ipiPD1_47_gide	unknown	Malignant neoplasm of unknown primary site	24	female	Combo	PR	24.4	24.4	naive	gide
+ipiPD1_49_gide	cutaneous	Malignant melanoma	36	male	Combo	CR	25.833334	25.833334	naive	gide
+ipiPD1_50_gide	unknown	Malignant neoplasm of unknown primary site	68	male	Combo	PR	30.133333	30.133333	naive	gide
+ipiPD1_6_gide	acral	Acral lentiginous melanoma	75	male	Combo	PD	1.3666667	3.6	naive	gide
+ipiPD1_7_gide	cutaneous	Malignant melanoma	59	male	Combo	PR	2.7	5.633333	naive	gide
+ipiPD1_8_gide	cutaneous	Malignant melanoma	55	male	Combo	PD	2.7	21.233334	naive	gide
+ipiPD1_9_gide	cutaneous	Malignant melanoma	56	male	Combo	PD	2.7	5.2	naive	gide
+Patient1_liu	unknown	Malignant neoplasm of unknown primary site	NA	female	PD1	PD	93	283	ctla4	liu
+Patient10_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	169	1139	ctla4	liu
+Patient102_liu	acral	Acral lentiginous melanoma	NA	male	PD1	SD	176	785	naive	liu
+Patient104_liu	mucosal	Malignant melanoma of sites other than skin	NA	female	PD1	PR	789	789	naive	liu
+Patient105_liu	cutaneous	Malignant melanoma	NA	female	PD1	SD	378	521	naive	liu
+Patient106_liu	cutaneous	Malignant melanoma	NA	female	PD1	CR	780	780	naive	liu
+Patient107_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	47	47	naive	liu
+Patient108_liu	acral	Acral lentiginous melanoma	NA	male	PD1	PD	77	165	naive	liu
+Patient11_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	85	160	ctla4	liu
+Patient110_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	94	506	naive	liu
+Patient112_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	91	521	naive	liu
+Patient116_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	64	118	naive	liu
+Patient117_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	100	295	ctla4	liu
+Patient118_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	1316	1316	ctla4	liu
+Patient119_liu	mucosal	Malignant melanoma of sites other than skin	NA	female	PD1	PD	74	260	ctla4	liu
+Patient120_liu	cutaneous	Malignant melanoma	NA	female	PD1	CR	1311	1311	ctla4	liu
+Patient121_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	1228	1306	ctla4	liu
+Patient125_liu	cutaneous	Malignant melanoma	NA	male	PD1	CR	978	978	naive	liu
+Patient126_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	PR	742	992	naive	liu
+Patient127_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	CR	866	866	naive	liu
+Patient13_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	44	58	ctla4	liu
+Patient130_liu	unknown	Malignant neoplasm of unknown primary site	NA	female	PD1	PD	124	192	naive	liu
+Patient131_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	833	833	naive	liu
+Patient132_liu	cutaneous	Malignant melanoma	NA	male	PD1	CR	389	739	naive	liu
+Patient133_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	63	370	naive	liu
+Patient134_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	63	590	naive	liu
+Patient135_liu	cutaneous	Malignant melanoma	NA	male	PD1	CR	628	628	naive	liu
+Patient136_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	62	698	naive	liu
+Patient137_liu	unknown	Malignant neoplasm of unknown primary site	NA	female	PD1	CR	772	772	naive	liu
+Patient14_liu	acral	Acral lentiginous melanoma	NA	female	PD1	PD	76	186	naive	liu
+Patient140_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	67	351	naive	liu
+Patient141_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	875	875	naive	liu
+Patient142_liu	cutaneous	Malignant melanoma	NA	female	PD1	SD	996	996	naive	liu
+Patient143_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	153	630	naive	liu
+Patient144_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	662	662	naive	liu
+Patient145_liu	cutaneous	Malignant melanoma	NA	male	PD1	CR	833	833	naive	liu
+Patient146_liu	cutaneous	Malignant melanoma	NA	female	PD1	CR	612	612	naive	liu
+Patient147_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	CR	960	960	naive	liu
+Patient148_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	792	792	naive	liu
+Patient149_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	210	497	naive	liu
+Patient15_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	105	149	ctla4	liu
+Patient150_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	685	685	naive	liu
+Patient154_liu	cutaneous	Malignant melanoma	NA	female	PD1	SD	251	635	naive	liu
+Patient155_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	113	475	naive	liu
+Patient156_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	80	87	naive	liu
+Patient157_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	83	143	naive	liu
+Patient158_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	162	194	naive	liu
+Patient159_liu	mucosal	Malignant melanoma of sites other than skin	NA	female	PD1	SD	216	288	ctla4	liu
+Patient162_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	PD	53	201	ctla4	liu
+Patient163_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	PD	48	173	ctla4	liu
+Patient165_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	13	75	naive	liu
+Patient166_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	205	205	naive	liu
+Patient167_liu	unknown	Malignant neoplasm of unknown primary site	NA	female	PD1	PD	57	282	naive	liu
+Patient168_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	580	623	naive	liu
+Patient169_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	543	543	naive	liu
+Patient17_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	202	686	ctla4	liu
+Patient170_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	347	347	naive	liu
+Patient172_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	272	272	naive	liu
+Patient173_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	16	42	naive	liu
+Patient179_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	336	653	naive	liu
+Patient18_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	86	130	naive	liu
+Patient180_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	343	380	naive	liu
+Patient181_liu	cutaneous	Malignant melanoma	NA	female	PD1	CR	476	476	naive	liu
+Patient182_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	84	748	naive	liu
+Patient183_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	84	572	naive	liu
+Patient184_liu	cutaneous	Malignant melanoma	NA	male	PD1	CR	372	513	naive	liu
+Patient185_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	203	203	naive	liu
+Patient187_liu	cutaneous	Malignant melanoma	NA	female	PD1	CR	617	617	ctla4	liu
+Patient188_liu	acral	Acral lentiginous melanoma	NA	male	PD1	PD	23	74	naive	liu
+Patient189_liu	acral	Acral lentiginous melanoma	NA	female	PD1	PR	406	718	naive	liu
+Patient191_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	658	658	naive	liu
+Patient192_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	249	290	ctla4	liu
+Patient193_liu	cutaneous	Malignant melanoma	NA	female	PD1	SD	476	659	naive	liu
+Patient195_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	895	895	ctla4	liu
+Patient196_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	PD	81	81	naive	liu
+Patient197_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	89	960	naive	liu
+Patient20_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	84	242	ctla4	liu
+Patient200_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	108	512	naive	liu
+Patient201_liu	mucosal	Malignant melanoma of sites other than skin	NA	male	PD1	PD	69	167	naive	liu
+Patient203_liu	acral	Acral lentiginous melanoma	NA	male	PD1	PD	99	626	ctla4	liu
+Patient204_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	CR	630	819	naive	liu
+Patient205_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	190	392	naive	liu
+Patient206_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	42	90	ctla4	liu
+Patient21_liu	acral	Acral lentiginous melanoma	NA	female	PD1	PR	906	906	ctla4	liu
+Patient22_liu	acral	Acral lentiginous melanoma	NA	male	PD1	PD	91	253	ctla4	liu
+Patient23_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	77	975	naive	liu
+Patient24_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	PD	31	137	ctla4	liu
+Patient25_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	752	1096	ctla4	liu
+Patient27_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	94	431	ctla4	liu
+Patient30_liu	cutaneous	Malignant melanoma	NA	female	PD1	SD	133	213	ctla4	liu
+Patient31_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	85	426	ctla4	liu
+Patient32_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	49	53	ctla4	liu
+Patient33_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	1679	1679	ctla4	liu
+Patient34_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	240	1691	ctla4	liu
+Patient35_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	181	968	ctla4	liu
+Patient36_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	63	451	naive	liu
+Patient37_liu	mucosal	Malignant melanoma of sites other than skin	NA	male	PD1	PD	77	275	naive	liu
+Patient38_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	98	343	ctla4	liu
+Patient39_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	937	937	naive	liu
+Patient4_liu	cutaneous	Malignant melanoma	NA	male	PD1	CR	574	600	ctla4	liu
+Patient40_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	63	468	naive	liu
+Patient41_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	106	1685	ctla4	liu
+Patient42_liu	cutaneous	Malignant melanoma	NA	male	PD1	CR	1027	1027	ctla4	liu
+Patient43_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	750	925	naive	liu
+Patient44_liu	mucosal	Malignant melanoma of sites other than skin	NA	male	PD1	PR	922	922	ctla4	liu
+Patient45_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	1666	1666	ctla4	liu
+Patient46_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	896	896	naive	liu
+Patient47_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	74	937	naive	liu
+Patient48_liu	unknown	Malignant neoplasm of unknown primary site	NA	female	PD1	PD	50	53	naive	liu
+Patient49_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	280	1635	ctla4	liu
+Patient50_liu	mucosal	Malignant melanoma of sites other than skin	NA	female	PD1	SD	105	175	ctla4	liu
+Patient51_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	471	1547	naive	liu
+Patient55_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	1503	1503	naive	liu
+Patient56_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	71	122	ctla4	liu
+Patient58_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	77	303	ctla4	liu
+Patient59_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	82	191	ctla4	liu
+Patient6_liu	cutaneous	Malignant melanoma	NA	female	PD1	SD	124	687	ctla4	liu
+Patient60_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	175	662	ctla4	liu
+Patient61_liu	cutaneous	Malignant melanoma	NA	female	PD1	SD	987	987	ctla4	liu
+Patient62_liu	cutaneous	Malignant melanoma	NA	female	PD1	PR	1001	1001	ctla4	liu
+Patient63_liu	mucosal	Malignant melanoma of sites other than skin	NA	female	PD1	PD	89	178	ctla4	liu
+Patient67_liu	mucosal	Malignant melanoma of sites other than skin	NA	female	PD1	PD	94	136	naive	liu
+Patient7_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	SD	217	269	ctla4	liu
+Patient72_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	67	395	ctla4	liu
+Patient73_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	85	846	ctla4	liu
+Patient75_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	PR	891	891	naive	liu
+Patient77_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	95	444	naive	liu
+Patient78_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	86	356	naive	liu
+Patient79_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	84	849	naive	liu
+Patient8_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	955	1005	naive	liu
+Patient80_liu	acral	Acral lentiginous melanoma	NA	male	PD1	PD	77	502	ctla4	liu
+Patient82_liu	unknown	Malignant neoplasm of unknown primary site	NA	male	PD1	PD	89	131	ctla4	liu
+Patient83_liu	cutaneous	Malignant melanoma	NA	male	PD1	PD	71	71	ctla4	liu
+Patient84_liu	mucosal	Malignant melanoma of sites other than skin	NA	female	PD1	PD	83	164	ctla4	liu
+Patient86_liu	cutaneous	Malignant melanoma	NA	male	PD1	SD	1327	1327	ctla4	liu
+Patient87_liu	unknown	Malignant neoplasm of unknown primary site	NA	female	PD1	PR	1142	1263	ctla4	liu
+Patient88_liu	acral	Acral lentiginous melanoma	NA	male	PD1	PD	69	74	ctla4	liu
+Patient9_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	21	963	naive	liu
+Patient94_liu	cutaneous	Malignant melanoma	NA	female	PD1	PD	40	40	ctla4	liu
+Patient96_liu	cutaneous	Malignant melanoma	NA	male	PD1	CR	913	913	naive	liu
+Patient98_liu	unknown	Malignant neoplasm of unknown primary site	NA	female	PD1	PD	73	683	naive	liu
+Patient99_liu	cutaneous	Malignant melanoma	NA	male	PD1	PR	319	921	naive	liu
+PD1_10_gide	cutaneous	Malignant melanoma	90	male	PD1	PD	2.5333333	18.366667	naive	gide
+PD1_11_gide	cutaneous	Malignant melanoma	66	male	PD1	PD	2.6	5.5333333	naive	gide
+PD1_12_gide	cutaneous	Malignant melanoma	52	male	PD1	SD	2.6666667	6.633333	naive	gide
+PD1_13_gide	unknown	Malignant neoplasm of unknown primary site	69	male	PD1	PD	2.7333333	3.2	naive	gide
+PD1_14_gide	cutaneous	Malignant melanoma	58	male	PD1	PD	2.7666667	33.1	naive	gide
+PD1_15_gide	acral	Acral lentiginous melanoma	76	female	PD1	PD	2.8	10	naive	gide
+PD1_16_gide	cutaneous	Malignant melanoma	55	male	PD1	PD	2.8	5.633333	naive	gide
+PD1_17_gide	cutaneous	Malignant melanoma	37	male	PD1	PD	3.2	8.6	naive	gide
+PD1_18_gide	cutaneous	Malignant melanoma	62	male	PD1	PD	3.3333333	7.6	naive	gide
+PD1_19_gide	cutaneous	Malignant melanoma	54	male	PD1	SD	4.1666665	12.833333	naive	gide
+PD1_2_gide	cutaneous	Malignant melanoma	61	female	PD1	PD	0.43333334	2.1666667	naive	gide
+PD1_21_gide	cutaneous	Malignant melanoma	67	male	PD1	SD	5.5333333	18.366667	naive	gide
+PD1_23_gide	cutaneous	Malignant melanoma	40	male	PD1	SD	6.366667	6.366667	naive	gide
+PD1_25_gide	cutaneous	Malignant melanoma	49	male	PD1	PR	9.033334	29.9	naive	gide
+PD1_27_gide	acral	Acral lentiginous melanoma	76	male	PD1	PR	10.466666	35.566666	naive	gide
+PD1_29_gide	cutaneous	Malignant melanoma	55	male	PD1	SD	11.166667	27.5	naive	gide
+PD1_3_gide	cutaneous	Malignant melanoma	50	male	PD1	PD	0.76666665	1.9666667	naive	gide
+PD1_30_gide	cutaneous	Malignant melanoma	86	female	PD1	SD	11.933333	19.366667	naive	gide
+PD1_34_gide	acral	Acral lentiginous melanoma	78	male	PD1	PR	18.133333	29.266666	naive	gide
+PD1_35_gide	cutaneous	Malignant melanoma	55	female	PD1	PR	19.533333	36.366665	naive	gide
+PD1_36_gide	cutaneous	Malignant melanoma	76	male	PD1	PR	19.666666	20.233334	naive	gide
+PD1_38_gide	cutaneous	Malignant melanoma	69	female	PD1	PR	25.166666	51.566666	naive	gide
+PD1_4_gide	cutaneous	Malignant melanoma	84	male	PD1	PD	0.76666665	0.73333335	naive	gide
+PD1_40_gide	cutaneous	Malignant melanoma	78	male	PD1	PR	28.166666	28.166666	naive	gide
+PD1_41_gide	cutaneous	Malignant melanoma	61	female	PD1	PR	29	29.533333	naive	gide
+PD1_42_gide	cutaneous	Malignant melanoma	59	female	PD1	CR	29.7	29.7	naive	gide
+PD1_44_gide	cutaneous	Malignant melanoma	45	female	PD1	PR	35.833332	35.833332	naive	gide
+PD1_45_gide	cutaneous	Malignant melanoma	82	male	PD1	PR	36.166668	36.166668	naive	gide
+PD1_46_gide	cutaneous	Malignant melanoma	71	male	PD1	PR	36.6	36.6	naive	gide
+PD1_47_gide	cutaneous	Malignant melanoma	62	male	PD1	PR	39.133335	39.133335	naive	gide
+PD1_48_gide	cutaneous	Malignant melanoma	40	male	PD1	PR	39.633335	39.633335	naive	gide
+PD1_49_gide	cutaneous	Malignant melanoma	72	female	PD1	CR	44.266666	44.266666	naive	gide
+PD1_5_gide	cutaneous	Malignant melanoma	67	male	PD1	PD	1.3	5.1666665	naive	gide
+PD1_50_gide	cutaneous	Malignant melanoma	86	male	PD1	CR	44.733334	44.733334	naive	gide
+PD1_52_gide	cutaneous	Malignant melanoma	63	female	PD1	PR	51.766666	51.766666	naive	gide
+PD1_53_gide	cutaneous	Malignant melanoma	71	female	PD1	CR	52.966667	52.966667	naive	gide
+PD1_54_gide	cutaneous	Malignant melanoma	52	female	PD1	PR	53.433334	53.433334	naive	gide
+PD1_6_gide	cutaneous	Malignant melanoma	68	male	PD1	PD	1.4	3.1333334	naive	gide
+PD1_7_gide	cutaneous	Malignant melanoma	57	female	PD1	PD	1.5666667	2.6666667	naive	gide
+PD1_8_gide	acral	Acral lentiginous melanoma	85	female	PD1	PD	1.9333333	1.9333333	naive	gide
+PD1_9_gide	cutaneous	Malignant melanoma	70	female	PD1	PD	2.3666666	3.3	naive	gide
+Pt1_038	cutaneous	Malignant melanoma	NA	NA	PD1	PD	1.8	5.3333335	ctla4	038
+Pt10_038	cutaneous	Malignant melanoma	81	female	PD1	SD	3.9666667	8.533334	naive	038
+Pt100_038	unknown	Malignant neoplasm of unknown primary site	64	male	PD1	PD	1.6666666	28	ctla4	038
+Pt101_038	cutaneous	Malignant melanoma	47	female	PD1	PR	20.4	27.8	ctla4	038
+Pt102_038	cutaneous	Malignant melanoma	62	female	PD1	SD	3.7333333	21.2	naive	038
+Pt103_038	cutaneous	Malignant melanoma	52	female	PD1	PD	1.6666666	16.133333	ctla4	038
+Pt104_038	acral	Acral lentiginous melanoma	64	male	PD1	PR	24.733334	27.266666	ctla4	038
+Pt106_038	mucosal	Malignant melanoma of sites other than skin	53	male	PD1	PD	1.8666667	3.0333333	ctla4	038
+Pt108_038	unknown	Malignant neoplasm of unknown primary site	37	female	PD1	SD	18.3	30.433332	ctla4	038
+Pt11_038	cutaneous	Malignant melanoma	61	female	PD1	PD	1.9666667	27.9	naive	038
+Pt13_038	cutaneous	Malignant melanoma	67	male	PD1	PD	2.0666666	9.333333	naive	038
+Pt17_038	cutaneous	Malignant melanoma	48	female	PD1	PD	1.6	1.9	ctla4	038
+Pt18_038	cutaneous	Malignant melanoma	53	male	PD1	PR	17.3	35.766666	naive	038
+Pt2_038	unknown	Malignant neoplasm of unknown primary site	NA	NA	PD1	SD	3.8333333	9.166667	ctla4	038
+Pt24_038	unknown	Malignant neoplasm of unknown primary site	63	male	PD1	PD	1.6666666	4.9666667	naive	038
+Pt25_038	cutaneous	Malignant melanoma	42	male	PD1	PD	0.8	3.3666666	naive	038
+Pt26_038	mucosal	Malignant melanoma of sites other than skin	22	female	PD1	SD	9.8	31.733334	ctla4	038
+Pt27_038	cutaneous	Malignant melanoma	65	male	PD1	PD	1.6666666	15.833333	naive	038
+Pt28_038	cutaneous	Malignant melanoma	79	female	PD1	PD	2.0333333	24.666666	naive	038
+Pt29_038	unknown	Malignant neoplasm of unknown primary site	57	female	PD1	PD	1.6666666	9.1	naive	038
+Pt3_038	cutaneous	Malignant melanoma	52	male	PD1	PR	19.433332	38.133335	naive	038
+Pt30_038	mucosal	Malignant melanoma of sites other than skin	89	female	PD1	CR	20.1	35.1	naive	038
+Pt31_038	unknown	Malignant neoplasm of unknown primary site	56	female	PD1	PD	1.6666666	32.033333	naive	038
+Pt32_038	cutaneous	Malignant melanoma	34	male	PD1	PD	1.9	3.8	ctla4	038
+Pt34_038	cutaneous	Malignant melanoma	71	male	PD1	PR	27.8	27.8	ctla4	038
+Pt36_038	cutaneous	Malignant melanoma	58	male	PD1	SD	24.566668	36.033333	ctla4	038
+Pt37_038	cutaneous	Malignant melanoma	63	male	PD1	SD	5.866667	21.533333	ctla4	038
+Pt38_038	cutaneous	Malignant melanoma	54	female	PD1	SD	5.5666666	5.5666666	ctla4	038
+Pt39_038	mucosal	Malignant melanoma of sites other than skin	NA	NA	PD1	PD	1.9	5.5333333	ctla4	038
+Pt4_038	cutaneous	Malignant melanoma	62	female	PD1	SD	5.8333335	21.1	naive	038
+Pt44_038	mucosal	Malignant melanoma of sites other than skin	61	male	PD1	PR	18.666666	36.433334	naive	038
+Pt46_038	unknown	Malignant neoplasm of unknown primary site	79	male	PD1	PD	1.7	7.5666666	ctla4	038
+Pt47_038	cutaneous	Malignant melanoma	52	male	PD1	PD	1.9	23.933332	ctla4	038
+Pt48_038	cutaneous	Malignant melanoma	44	male	PD1	CR	34.866665	34.866665	ctla4	038
+Pt49_038	cutaneous	Malignant melanoma	52	female	PD1	PR	27.566668	27.566668	ctla4	038
+Pt5_038	cutaneous	Malignant melanoma	58	female	PD1	PD	1.8666667	7.4	naive	038
+Pt51_038	cutaneous	Malignant melanoma	43	male	PD1	PD	1.5666667	1.9	ctla4	038
+Pt52_038	cutaneous	Malignant melanoma	45	female	PD1	PD	1.9	15.866667	ctla4	038
+Pt53_038	unknown	Malignant neoplasm of unknown primary site	82	male	PD1	PR	8.766666	14.433333	ctla4	038
+Pt54_038	cutaneous	Malignant melanoma	59	male	PD1	PR	28.833334	28.833334	ctla4	038
+Pt58_038	cutaneous	Malignant melanoma	53	female	PD1	SD	3.7666667	16.633333	ctla4	038
+Pt59_038	cutaneous	Malignant melanoma	49	female	PD1	SD	3.7	23.6	naive	038
+Pt60_038	cutaneous	Malignant melanoma	50	male	PD1	PD	1.7	24.6	naive	038
+Pt62_038	uveal	Uveal melanoma	NA	NA	PD1	PD	1.8666667	15.733334	naive	038
+Pt65_038	acral	Acral lentiginous melanoma	63	female	PD1	SD	9.333333	23.066668	ctla4	038
+Pt66_038	cutaneous	Malignant melanoma	49	female	PD1	PD	1.9666667	18.066668	naive	038
+Pt67_038	uveal	Uveal melanoma	33	female	PD1	SD	9.366667	34.4	ctla4	038
+Pt68_038	cutaneous	Malignant melanoma	69	male	PD1	PR	25.3	28.066668	ctla4	038
+Pt7_038	cutaneous	Malignant melanoma	55	male	PD1	PR	14.866667	38.3	naive	038
+Pt70_038	cutaneous	Malignant melanoma	72	male	PD1	SD	3.5333333	10.366667	ctla4	038
+Pt71_038	unknown	Malignant neoplasm of unknown primary site	50	female	PD1	SD	5.866667	8.2	naive	038
+Pt72_038	cutaneous	Malignant melanoma	43	female	PD1	PR	11.1	25.666666	naive	038
+Pt73_038	uveal	Uveal melanoma	60	male	PD1	SD	5.6	9.366667	naive	038
+Pt77_038	cutaneous	Malignant melanoma	56	female	PD1	SD	5.4333334	15.7	naive	038
+Pt78_038	cutaneous	Malignant melanoma	NA	NA	PD1	PD	1.6666666	2.6	ctla4	038
+Pt79_038	unknown	Malignant neoplasm of unknown primary site	64	male	PD1	SD	5.7	7.266667	ctla4	038
+Pt8_038	mucosal	Malignant melanoma of sites other than skin	40	male	PD1	PD	1.7333333	8.633333	naive	038
+Pt82_038	uveal	Uveal melanoma	60	female	PD1	SD	7.3333335	14.3	ctla4	038
+Pt83_038	cutaneous	Malignant melanoma	39	female	PD1	SD	11.7	15.4	ctla4	038
+Pt84_038	unknown	Malignant neoplasm of unknown primary site	48	female	PD1	PD	1.6666666	5.0333333	naive	038
+Pt85_038	cutaneous	Malignant melanoma	66	male	PD1	PD	1.6333333	30.133333	ctla4	038
+Pt86_038	unknown	Malignant neoplasm of unknown primary site	50	female	PD1	PD	2.5666666	9.066667	ctla4	038
+Pt87_038	cutaneous	Malignant melanoma	68	male	PD1	SD	3.6	32.466667	naive	038
+Pt89_038	cutaneous	Malignant melanoma	56	male	PD1	SD	7.3	28.133333	naive	038
+Pt9_038	cutaneous	Malignant melanoma	46	male	PD1	PD	2.2	3.0666666	naive	038
+Pt90_038	mucosal	Malignant melanoma of sites other than skin	60	female	PD1	PD	1.4666667	5.8	ctla4	038
+Pt92_038	cutaneous	Malignant melanoma	58	male	PD1	SD	6.3333335	11.1	ctla4	038
+Pt93_038	cutaneous	Malignant melanoma	52	male	PD1	PD	1.7	28.3	ctla4	038
+Pt94_038	cutaneous	Malignant melanoma	41	male	PD1	CR	24.3	32.7	naive	038
+Pt98_038	uveal	Uveal melanoma	74	male	PD1	SD	13.6	24.9	ctla4	038
