@@ -17,6 +17,7 @@ This repository contains the processed genomics and transcriptomics data, with h
 - os=overall survival (in months, see Note)
 - previous.treatment=prior treatment group (previously received anti-CTLA-4 or anti-CTLA-4 naive)
 - cohort=cohort described in manuscript
+
 _Note:_ Event status was not available, so the authors express precaution in survival analysis.
 
 ### Whole exome sequencing (WES)
