@@ -18,7 +18,7 @@ This repository contains the processed genomics and transcriptomics data, with h
 - pfs=progression free survival (in months, see Note)
 - os=overall survival (in months, see Note)
 - previous.treatment=prior treatment group (previously received anti-CTLA-4 or anti-CTLA-4 naive)
-- cohort=cohort described in manuscript
+- cohort=cohort described in manuscript (CheckMate 038=038, CheckMate 064=064, CheckMate 067=067, Gide, et al.=gide, Liu, et al.=liu, Van Allen, et al.=va)
 
 _Note:_ Event status was not available, so the authors express precaution in survival analysis.
 
